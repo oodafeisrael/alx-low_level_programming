@@ -2,7 +2,7 @@
 #include "main.h"
 /**
 * main - function to check for endianness
-* 
+*Return: void
 */
 int main(void)
 {
