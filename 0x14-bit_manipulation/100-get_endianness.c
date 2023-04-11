@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-* get_endiannes - this checks for little or big machine
+* get_endianness - this checks for little or big machine
 * Return: 0 for big, 1 for little
 */
 int get_endianness(void)
