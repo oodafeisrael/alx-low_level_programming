@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include "main.h"
+/**
+* main - function to check for endianness
+* 
+*/
 int main(void)
 {
 	int n;
