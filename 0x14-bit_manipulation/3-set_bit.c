@@ -4,7 +4,7 @@
 /**
 * set_bit - sets a bit with a given index to 1
 * @n: pointer to the number (unsigned long int) to be changed
-@index: bit's index
+* @index: bit's index
 * Return: 1 if success, -1 if it  fails
 */
 int set_bit(unsigned long int *n, unsigned int index)
