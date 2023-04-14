@@ -3,7 +3,8 @@
 #include "main.h"
 /**
 * main - check the code
-*
+* @ac: argument count
+* @av: an array of string pointerscontaining command line arguments
 * Return: Always 0.
 */
 int main(int ac, char **av)
