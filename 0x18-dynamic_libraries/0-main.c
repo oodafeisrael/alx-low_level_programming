@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - check the code
- *
- * Return: Always EXIT_SUCCESS.
- */
+* main - check the code
+*
+* Return: Always 0.
+*/
 int main(void)
 {
 	_putchar('A');
@@ -71,4 +71,5 @@ int main(void)
 	printf("%s\n", s4);
 
 	printf("%s\n", ptr1);
+	return (0);
 }
